@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## I'm Karthik!
 
+`![Alt Text](https://c.tenor.com/v7Z6_aeZ1ocAAAAC/patrick-star-idk.gif)`
+
 Karthik Chellappan, SW Integration Lead @ Teleo.ai, nice to meet you! This is my little landing page, which is honestly, a testing page for cool widgets you can add to your own README :) 
 
 If you're new to Teleo, feel free to hit me up with questions or if you just need a hand!
@@ -27,7 +29,18 @@ And if you're part of the SW Team at Teleo, [this](https://docs.google.com/docum
 
 About me... Love anime, playing Pokémon, cooking, hiking and solving problems for software architecture and autonomy. If you're a fan of any of those, let me know 👍
 
-## My Preferred IDEs
+## If you need to reach me...
+
+![Alt Text](https://c.tenor.com/enLBClxEcWMAAAAC/spongebob-technology.gif)
+
+```
+> Wait, SpongeBob! We're not cavemen! We have technology!
+                                                    Patrick Star
+```
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthik@teleo.ai) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikchellappan)
+
+## ## My Preferred IDEs
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -53,10 +66,16 @@ About me... Love anime, playing Pokémon, cooking, hiking and solving problems f
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+## My Stats
+
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikteleo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikteleo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Random
 
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ## If you want to build a page like this...
 
-[This]([GitHub - rzashakeri/beautify-github-profile: This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐](https://github.com/rzashakeri/beautify-github-profile)) is a great starting point! Thanks for the helpful guide, Reza Shakeri!
+[This](https://github.com/rzashakeri/beautify-github-profile) is a great starting point! Thanks for the helpful guide, Reza Shakeri!
