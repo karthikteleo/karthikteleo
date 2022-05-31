@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm Karthik!
 
-`![Alt Text](https://c.tenor.com/v7Z6_aeZ1ocAAAAC/patrick-star-idk.gif)`
+![Alt Text](https://c.tenor.com/v7Z6_aeZ1ocAAAAC/patrick-star-idk.gif)
 
 Karthik Chellappan, SW Integration Lead @ Teleo.ai, nice to meet you! This is my little landing page, which is honestly, a testing page for cool widgets you can add to your own README :) 
 
@@ -72,7 +72,7 @@ About me... Love anime, playing Pokémon, cooking, hiking and solving problems f
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikteleo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Random
+## My Consoles
 
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white) ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
